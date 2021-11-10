@@ -1,6 +1,0 @@
-PERL
-SQL
-MySQL
-Oracle
-DB2
-Postgress

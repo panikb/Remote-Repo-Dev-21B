@@ -7,7 +7,14 @@ JavaScript
 PHP
 C#
 Ruby
-.net
+
 Objective – C
 ============
 local modification
+Krishna
+Karthika
+Venkat
+Kalyani
+Madav
+Gopi
+Ramesh
